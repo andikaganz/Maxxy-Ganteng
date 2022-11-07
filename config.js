@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/kahfi_maker'
-global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.sig = 'https://instagram.com/AndikaBot'
+global.syt = 'https://youtube.com/channel/ANDIKA BOT'
 global.sgh = 'https://github.com/Frezzy-XD'
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.swa = 'wa.me/6285380166282'
+global.swa = 'wa.me/628978161093'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
+global.pdana = '08978161093'
 global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.pgopay = '089514952605'
+global.ppulsa = '089514952605'
+global.ppulsa2 = '08978161093'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
+global.nomorbot = '628978161093'
+global.nomorown = '6289514952605'
+global.namebot = 'ʏt andika ʙᴏᴛᴢ✓'
 global.nameown = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
+  ['628978161093', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
+global.wm = 'ʏᴛ andika ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' //Main Watermark
 global.wm2 = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.wm3 = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.wm3 = 'ʏᴛ andika ʙᴏᴛᴢ✓ | By ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓ | ʙʏ ${global.nameown}`
 global.author = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓' 
 global.packname = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 8 2022'
+global.ultahowner = 'juni 30 2023'
 
 
 /*============== LOGO ==============*/
@@ -123,13 +123,13 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
+global.botintro = 'Hallo, Kenalin saya Andika BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
-global.umurowner = '17'
+global.nameowner = 'diks ᴍᴀᴋᴇʀ✓'
+global.umurowner = '13'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285380166282'
+global.nomorowner = 'wa.me/628978161093'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
